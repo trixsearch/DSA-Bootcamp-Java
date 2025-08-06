@@ -12,6 +12,8 @@
 7. [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)
 8. [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)
 9. [Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/)
+
+-- Study HashMap To do the Next Problems
 10. [Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/)
 11. [Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/)
 12. [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/)
